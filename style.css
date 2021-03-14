@@ -1,0 +1,118 @@
+#first .row {
+	margin: 50px;
+}
+#first img{
+	opacity: 0.8;
+}
+
+#intro {
+	margin-bottom: 50px;
+	background: #3a383826;
+}
+#intro h2 {
+	margin-top: 100px;
+	margin-bottom: 30px;
+}
+#intro p{
+	margin-bottom: 30px;
+}
+
+#second img {
+	width: 200px;
+	max-width: 100%;
+}
+
+#second {
+	margin-top: 50px;
+	padding: 50px;
+	background: rgba(191, 191, 191, 0.3);
+}
+
+#second h5 {
+	margin-top: 60px;
+	margin-bottom: 40px;
+}
+
+#third img {
+	max-width: 100%;
+}
+
+#third .row{
+    margin: 20px;
+	margin-bottom: 50px;
+}
+#third {
+	margin: 50px;
+}
+#third button{
+    margin: 10px;
+}
+
+#third h3 {
+	margin: 50px;
+}
+#cart {
+	width: 250px;
+	max-width: 100%;
+	margin: 30px;
+}
+
+#manage {
+	padding-left: 70px;
+    margin-bottom: 30px;
+}
+
+#baseketball {
+	width: 200px;
+	max-width: 100%;
+	margin: 30px;
+}
+
+footer {
+	padding: 50px 0 65px;
+}
+
+footer .list-inline {
+	margin: 0;
+	padding: 0;
+}
+
+footer .copyright {
+	font-size: 14px;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+footer svg {
+    margin: 10px;
+    margin-bottom: 50px;
+}
+
+footer a{
+    color: black;
+}
+
+@media only screen and (max-width: 768px) {
+    #manage {
+        padding-left: 0px;
+        margin-bottom: 30px;
+    }
+    #second img{
+        display: block;
+        margin-left: 100px;
+        margin-right: auto;
+        width: 40%;
+    }
+	#first .col-md-4{
+	  margin-bottom: 50px;
+	}
+	#first .row{
+		margin: 0px;
+	}
+
+
+	
+  }
+
+  
+  
